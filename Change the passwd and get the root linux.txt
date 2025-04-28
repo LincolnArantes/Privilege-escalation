@@ -1,0 +1,17 @@
+
+
+Create one password Yescrypt:
+
+mkpasswd --method=SHA-512 123
+
+
+Change inside the file /etc/passwd
+
+
+Put the hash on x and save 
+
+Use the edit text nano!
+
+Boom!!
+
+
